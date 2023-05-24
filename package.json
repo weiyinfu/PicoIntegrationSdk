@@ -1,0 +1,26 @@
+{
+  "name": "org.byted.pico.integrationsdk",
+  "displayName": "PICO Integration",
+  "version": "2.1.6",
+  "unity": "2020.3",
+  "description": "Provides display and input support for PICO devices.",
+  "keywords": [
+    "picoxr",
+    "xr",
+    "vr",
+    "virtual",
+    "xreditorsubsystem"
+  ],
+  "dependencies": {
+    "com.unity.xr.management": "3.2.16",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.subsystemregistration": "1.0.6",
+    "com.unity.xr.interaction.toolkit": "0.9.4-preview"
+  },
+  "unityRelease": "21f1",
+  "author": {
+    "name": "weiyinfu",
+    "email": "weiyinfu.weiyinfu@bytedance.com",
+    "url": "https://developer-cn.pico-interactive.com/sdk?deviceId=1&platformId=1&itemId=12"
+  }
+}
